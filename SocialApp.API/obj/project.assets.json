@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS WorkPlace\\SocialNetwork\\SocialApp\\SocialApp.API\\SocialApp.API.csproj",
+      "projectUniqueName": "E:\\VS WorkPlace\\SocialNetwork\\SocialApp\\SocialAppWebAPIDotNetCore2\\SocialApp.API\\SocialApp.API.csproj",
       "projectName": "SocialApp.API",
-      "projectPath": "E:\\VS WorkPlace\\SocialNetwork\\SocialApp\\SocialApp.API\\SocialApp.API.csproj",
+      "projectPath": "E:\\VS WorkPlace\\SocialNetwork\\SocialApp\\SocialAppWebAPIDotNetCore2\\SocialApp.API\\SocialApp.API.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\VS WorkPlace\\SocialNetwork\\SocialApp\\SocialApp.API\\obj\\",
+      "outputPath": "E:\\VS WorkPlace\\SocialNetwork\\SocialApp\\SocialAppWebAPIDotNetCore2\\SocialApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

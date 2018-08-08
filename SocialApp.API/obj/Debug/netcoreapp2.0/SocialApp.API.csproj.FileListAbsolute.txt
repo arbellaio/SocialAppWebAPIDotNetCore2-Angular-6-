@@ -8,3 +8,13 @@ E:\VS WorkPlace\SocialNetwork\SocialApp\SocialApp.API\obj\Debug\netcoreapp2.0\So
 E:\VS WorkPlace\SocialNetwork\SocialApp\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.AssemblyInfo.cs
 E:\VS WorkPlace\SocialNetwork\SocialApp\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.dll
 E:\VS WorkPlace\SocialNetwork\SocialApp\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.pdb
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\bin\Debug\netcoreapp2.0\SocialApp.API.deps.json
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\bin\Debug\netcoreapp2.0\SocialApp.API.runtimeconfig.json
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\bin\Debug\netcoreapp2.0\SocialApp.API.runtimeconfig.dev.json
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\bin\Debug\netcoreapp2.0\SocialApp.API.dll
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\bin\Debug\netcoreapp2.0\SocialApp.API.pdb
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.csproj.CoreCompileInputs.cache
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.AssemblyInfoInputs.cache
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.AssemblyInfo.cs
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.dll
+E:\VS WorkPlace\SocialNetwork\SocialApp\SocialAppWebAPIDotNetCore2\SocialApp.API\obj\Debug\netcoreapp2.0\SocialApp.API.pdb
